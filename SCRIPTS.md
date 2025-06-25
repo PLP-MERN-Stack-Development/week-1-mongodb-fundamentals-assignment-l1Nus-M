@@ -22,7 +22,7 @@ This repository contains MongoDB queries and aggregation pipelines for managing 
 
     use plp_bookstore
 
-## Script Categories
+# Script Categories
 ### Basic CRUD Operations
 - Find books by genre
 - Find books published after a certain year
