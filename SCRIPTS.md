@@ -12,15 +12,15 @@ This repository contains MongoDB queries and aggregation pipelines for managing 
 
 1. Import sample data:
 
- node `insert_books.js`
+    node `insert_books.js`
 
 3. Connect to your MongoDB instance:
 
- mongosh "mongodb://localhost:27017"
+    mongosh "mongodb://localhost:27017"
 
 5. Switch to your database:
 
- use plp_bookstore
+    use plp_bookstore
 
 ## Script Categories
 ### Basic CRUD Operations
